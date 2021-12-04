@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile apps.
 - 🌱 I’m currently runningg the cafia project
 - 💞️ I’m looking to collaborate on cafia and other mobile projects
-- 📫 How to reach me instagram, facebook, youtube, twitter or simple ask around for @cafia_app
+- 📫 How to reach me instagram, facebook, youtube, twitter or simply ask around for @cafia_app
 
 <!---
 AEMLLC/AEMLLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
